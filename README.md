@@ -1,1 +1,1 @@
-This is the coding behind researching how EEG could identify Alzheimer's and Frontotemporal dementia (FTD) in individuals. The preprint paper is here: https://www.medrxiv.org/content/10.1101/2024.10.03.24314841v1
+This is the coding behind developing a machine learning program based on EEG data that could identify Alzheimer's and Frontotemporal dementia (FTD) in individuals. The preprint paper is here: https://www.medrxiv.org/content/10.1101/2024.10.03.24314841v1
